@@ -6,6 +6,6 @@ XLOOKUP formula was used to extract the scores referencing the dataset as table 
 ## images 
 
 ![image alt](image/image1.png)
-![image alt](
+![image alt](image/image s2.png)
 percentage was obtained by dividing obtained marks by 100 and the remarks by XLOOKUP function
 the entire work was done acurately giving details and precisions to the used formula
